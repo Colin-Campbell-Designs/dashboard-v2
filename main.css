@@ -232,6 +232,10 @@ body {
   min-height: 50em;
 }
 
+.card6 {
+  min-height: 50em;
+}
+
 .card7 {
   grid-column: 1/-1;
 }
